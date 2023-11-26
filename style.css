@@ -102,7 +102,7 @@ button:hover{
 
 .scores1{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     background-color: hsla(0, 100%, 90%, 0.253);
     border-radius: 8px;
     padding: 7px;
@@ -113,7 +113,7 @@ button:hover{
 }
 .scores2{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     background-color: hsla(34, 14%, 90%, 0.281);
     border-radius: 8px;
     border: none;
@@ -124,7 +124,7 @@ button:hover{
 }
 .scores3{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     background-color: hsla(166, 41%, 90%, 0.253);
     border: none;
     border-radius: 8px;
@@ -135,7 +135,7 @@ button:hover{
 }
 .scores4{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     background-color: hsla(234, 84%, 90%, 0.274);
     border-radius: 8px;
     border: none;
